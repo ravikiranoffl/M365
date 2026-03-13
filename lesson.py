@@ -66,7 +66,7 @@ def generate_lesson_with_retry(day_num, topic, past_context, retries=3):
     3. FULL SCOPE: Fully cover the day's topic. If the topic is "The Arabic Alphabet", you MUST introduce all 28 letters in the lesson. Do not stop at just a few.
     4. ZERO EXTRA VOCABULARY: Do NOT translate words like "Welcome", "Lesson", "Alphabet", or "Today" into Arabic. A beginner cannot read these yet! Only use Arabic for the specific target of the day (e.g., just the letters themselves).
     5. ONLY use Arabic vocabulary the student has already learned in past lessons. If it's Day 1 or 2, your Arabic output should be strictly limited to letters or short vowels.
-    6. Include sections: # Day {day_num} - {topic}, ## Lesson, ## Examples, ## Practice.
+    6. Include sections: # {topic}, ## Lesson, ## Examples, ## Practice.
     7. MUST DO: At the absolute end of the document, include these two exact sections:
        ## 📚 Core Vocabulary (ONLY list the exact letters or target words explicitly taught today. Do not add conversational words.)
        ## 🗣️ Key Sentences (ONLY list sentences if the student actually knows the letters/words to read them. If they are just learning the alphabet, write "None for today! Focus on the letters.")
@@ -102,7 +102,7 @@ def send_email(day_num, topic, html_content):
     """
     
     msg = MIMEText(styled_html, 'html')
-    msg['Subject'] = f"Mudarris 365  : Day {day_num} - {topic}"
+    msg['Subject'] = f"Mudarris 365 - {topic}"
     msg['From'] = GMAIL_USER
     msg['To'] = TO_EMAIL
 
