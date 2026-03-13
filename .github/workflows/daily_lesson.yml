@@ -1,0 +1,40 @@
+name: Muddaris Fusha 365 Daily Agent
+
+on:
+  schedule:
+    - cron: '0 4 * * *' # Runs at 4:00 AM UTC daily
+  workflow_dispatch: # Allows you to click a button in GitHub to run it manually
+
+permissions:
+  contents: write # Allows the bot to save files back to your repo
+
+jobs:
+  generate-lesson:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run lesson generator
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          TO_EMAIL: ${{ secrets.TO_EMAIL }}
+        run: python lesson.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Muddaris Bot"
+          git add lessons/ last_lesson.json
+          git commit -m "Automated MSA Lesson Generation" || echo "No changes to commit"
+          git push
