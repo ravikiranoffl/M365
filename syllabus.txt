@@ -1,4 +1,4 @@
-Day 1 - Introduction to the Arabic Alphabet and Pronunciation
+Day 1 - Introduction to the 28 Arabic Alphabet
 Day 2 - Short Vowels (Harakat) and Long Vowels
 Day 3 - Sun and Moon Letters
 Day 4 - Introduction to Nouns: Gender (Taa Marbuta)
@@ -362,4 +362,5 @@ Day 361 - Live presentation in Arabic Part 2
 Day 362 - Reflection and future learning plan Part 1
 Day 363 - Reflection and future learning plan Part 2
 Day 364 - Final comprehensive review
+
 Day 365 - Final MSA Fluency Certification and Graduation
