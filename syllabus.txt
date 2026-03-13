@@ -1,0 +1,365 @@
+Day 1 - Introduction to the Arabic Alphabet and Pronunciation
+Day 2 - Short Vowels (Harakat) and Long Vowels
+Day 3 - Sun and Moon Letters
+Day 4 - Introduction to Nouns: Gender (Taa Marbuta)
+Day 5 - The Definite Article (Al-) and Indefiniteness (Tanween)
+Day 6 - Basic Nominal Sentences (Subject and Predicate)
+Day 7 - Independent Pronouns (I, You, He, She, We, They)
+Day 8 - Attached Pronouns (Possession)
+Day 9 - Demonstrative Pronouns (This, That)
+Day 10 - Introduction to Prepositions (In, On, From, To)
+Day 11 - Adjective Matching Rules
+Day 12 - Question Words (Who, What, Where, When)
+Day 13 - Basic Greetings and Introductions
+Day 14 - Numbers 1 to 10 and Counting
+Day 15 - Telling Time in MSA
+Day 16 - Introduction to Arabic Roots (The 3-Letter System)
+Day 17 - The Past Tense Verb (Form I) - He/She/They
+Day 18 - The Past Tense Verb (Form I) - I/We/You
+Day 19 - The Present Tense Verb (Form I) - He/She/They
+Day 20 - The Present Tense Verb (Form I) - I/We/You
+Day 21 - Negating the Past and Present Tense
+Day 22 - The Future Tense (Prefix Sa- and Sawfa)
+Day 23 - Plurals Part 1: Regular Masculine and Feminine Plurals
+Day 24 - Plurals Part 2: Introduction to Broken Plurals
+Day 25 - The Idafa Construct (Possession without verbs)
+Day 26 - Complex Idafa (Multiple nouns)
+Day 27 - Adverbs of Time and Place
+Day 28 - Common Conjunctions (And, Or, But, Because)
+Day 29 - Describing Daily Routines
+Day 30 - Foundation Phase Review and Full Text Reading
+Day 31 - Relative clauses
+Day 32 - Conditional sentences
+Day 33 - Comparative and superlative forms
+Day 34 - Pronoun reference in long sentences
+Day 35 - Weekly speaking test
+Day 36 - Topic/comment sentence structure
+Day 37 - Emphasis particles
+Day 38 - Modal expressions (maybe, probably)
+Day 39 - Reported speech
+Day 40 - Purpose clauses
+Day 41 - Listening practice review
+Day 42 - Active and passive participles
+Day 43 - Verbal nouns (Masdar)
+Day 44 - Nominalization techniques
+Day 45 - News collocations
+Day 46 - Formal vs informal register
+Day 47 - Writing practice
+Day 48 - Politics vocabulary
+Day 49 - Economics vocabulary
+Day 50 - Diplomacy vocabulary
+Day 51 - Legal vocabulary
+Day 52 - News headline grammar
+Day 53 - Weekly reading practice
+Day 54 - Statistics language
+Day 55 - Technology vocabulary
+Day 56 - Environment vocabulary
+Day 57 - Health vocabulary
+Day 58 - Education vocabulary
+Day 59 - Reading synthesis
+Day 60 - Subjunctive and jussive moods
+Day 61 - Advanced negation
+Day 62 - Embedded clauses
+Day 63 - Complex nominal sentences
+Day 64 - Speech acts in formal Arabic
+Day 65 - Listening practice test
+Day 66 - Arabic idioms
+Day 67 - Diplomatic phrasing
+Day 68 - Reporting verbs
+Day 69 - Persuasive language
+Day 70 - Discourse markers
+Day 71 - Weekly presentation
+Day 72 - Advanced passive structures
+Day 73 - Complex negation patterns
+Day 74 - Emphasis via word order
+Day 75 - Translation practice
+Day 76 - Error correction practice
+Day 77 - Weekly review
+Day 78 - Motion verbs
+Day 79 - Thinking and speaking verbs
+Day 80 - Hedging language
+Day 81 - Contrast structures
+Day 82 - Interview language
+Day 83 - Interview listening practice
+Day 84 - Quotation strategies
+Day 85 - Apposition structures
+Day 86 - Cause/effect connectors
+Day 87 - Headline compression
+Day 88 - Participial modifiers
+Day 89 - Review
+Day 90 - Intensive listening week start
+Day 91 - Intensive listening to Arabic news (Transcription Day 1)
+Day 92 - Intensive listening to Arabic news (Transcription Day 2)
+Day 93 - Intensive listening to Arabic news (Transcription Day 3)
+Day 94 - Intensive listening to Arabic news (Transcription Day 4)
+Day 95 - Intensive listening to Arabic news (Transcription Day 5)
+Day 96 - Intensive listening to Arabic news (Transcription Day 6)
+Day 97 - Verb + preposition collocations
+Day 98 - Light verb constructions
+Day 99 - Stance markers
+Day 100 - 10-minute news presentation milestone
+Day 101 - Government vocabulary
+Day 102 - Legal vocabulary
+Day 103 - Economic vocabulary
+Day 104 - Diplomacy vocabulary
+Day 105 - Conflict vocabulary
+Day 106 - Weekly briefings
+Day 107 - Advanced connectors Part 1
+Day 108 - Advanced connectors Part 2
+Day 109 - Rhetoric practice Part 1
+Day 110 - Rhetoric practice Part 2
+Day 111 - Morphology practice Part 1
+Day 112 - Morphology practice Part 2
+Day 113 - Write 400-word article
+Day 114 - Speech listening practice
+Day 115 - Data description techniques
+Day 116 - Interview language and practice Part 1
+Day 117 - Interview language and practice Part 2
+Day 118 - Editing skills in Arabic Part 1
+Day 119 - Editing skills in Arabic Part 2
+Day 120 - Monthly review
+Day 121 - Fluency: Speaking drills
+Day 122 - Fluency: Culture reporting
+Day 123 - Fluency: Science reporting
+Day 124 - Fluency: Environment reporting
+Day 125 - Fluency: Argumentation structures
+Day 126 - Fluency: Writing long news summaries
+Day 127 - Fluency: Translation exercises
+Day 128 - Fluency: Speaking drills
+Day 129 - Fluency: Culture reporting
+Day 130 - Fluency: Science reporting
+Day 131 - Fluency: Environment reporting
+Day 132 - Fluency: Argumentation structures
+Day 133 - Fluency: Writing long news summaries
+Day 134 - Fluency: Translation exercises
+Day 135 - Fluency: Speaking drills
+Day 136 - Fluency: Culture reporting
+Day 137 - Fluency: Science reporting
+Day 138 - Fluency: Environment reporting
+Day 139 - Fluency: Argumentation structures
+Day 140 - Fluency: Writing long news summaries
+Day 141 - Fluency: Translation exercises
+Day 142 - Fluency: Speaking drills
+Day 143 - Fluency: Culture reporting
+Day 144 - Fluency: Science reporting
+Day 145 - Fluency: Environment reporting
+Day 146 - Fluency: Argumentation structures
+Day 147 - Fluency: Writing long news summaries
+Day 148 - Fluency: Translation exercises
+Day 149 - Pre-evaluation review
+Day 150 - Mid-course proficiency evaluation
+Day 151 - Advanced Journalism: Statistics language
+Day 152 - Advanced Journalism: Polling language
+Day 153 - Advanced Journalism: Corporate reporting
+Day 154 - Advanced Journalism: Energy policy vocabulary
+Day 155 - Advanced Journalism: Narrative journalism
+Day 156 - Advanced Journalism: Academic register
+Day 157 - Advanced Journalism: Speech delivery practice
+Day 158 - Advanced Journalism: Statistics language
+Day 159 - Advanced Journalism: Polling language
+Day 160 - Advanced Journalism: Corporate reporting
+Day 161 - Advanced Journalism: Energy policy vocabulary
+Day 162 - Advanced Journalism: Narrative journalism
+Day 163 - Advanced Journalism: Academic register
+Day 164 - Advanced Journalism: Speech delivery practice
+Day 165 - Advanced Journalism: Statistics language
+Day 166 - Advanced Journalism: Polling language
+Day 167 - Advanced Journalism: Corporate reporting
+Day 168 - Advanced Journalism: Energy policy vocabulary
+Day 169 - Advanced Journalism: Narrative journalism
+Day 170 - Advanced Journalism: Academic register
+Day 171 - Advanced Journalism: Speech delivery practice
+Day 172 - Advanced Journalism: Statistics language
+Day 173 - Advanced Journalism: Polling language
+Day 174 - Advanced Journalism: Corporate reporting
+Day 175 - Advanced Journalism: Energy policy vocabulary
+Day 176 - Advanced Journalism: Narrative journalism
+Day 177 - Advanced Journalism: Academic register
+Day 178 - Advanced Journalism: Speech delivery practice
+Day 179 - Pre-exam comprehensive review
+Day 180 - Mid-year exam
+Day 181 - Academic Arabic structures
+Day 182 - Long-form journalism reading
+Day 183 - Debate vocabulary
+Day 184 - Media ethics terminology
+Day 185 - Policy analysis language
+Day 186 - Academic Arabic structures
+Day 187 - Long-form journalism reading
+Day 188 - Debate vocabulary
+Day 189 - Media ethics terminology
+Day 190 - Policy analysis language
+Day 191 - Academic Arabic structures
+Day 192 - Long-form journalism reading
+Day 193 - Debate vocabulary
+Day 194 - Media ethics terminology
+Day 195 - Policy analysis language
+Day 196 - Academic Arabic structures
+Day 197 - Long-form journalism reading
+Day 198 - Debate vocabulary
+Day 199 - Media ethics terminology
+Day 200 - Policy analysis language
+Day 201 - Academic Arabic structures
+Day 202 - Long-form journalism reading
+Day 203 - Debate vocabulary
+Day 204 - Media ethics terminology
+Day 205 - Policy analysis language
+Day 206 - Academic Arabic structures
+Day 207 - Long-form journalism reading
+Day 208 - Debate vocabulary
+Day 209 - Media ethics terminology
+Day 210 - End of Month Review
+Day 211 - Large vocabulary expansion
+Day 212 - Long investigative articles
+Day 213 - Documentary narration
+Day 214 - Cohesion in long texts
+Day 215 - Editorial writing
+Day 216 - Large vocabulary expansion
+Day 217 - Long investigative articles
+Day 218 - Documentary narration
+Day 219 - Cohesion in long texts
+Day 220 - Editorial writing
+Day 221 - Large vocabulary expansion
+Day 222 - Long investigative articles
+Day 223 - Documentary narration
+Day 224 - Cohesion in long texts
+Day 225 - Editorial writing
+Day 226 - Large vocabulary expansion
+Day 227 - Long investigative articles
+Day 228 - Documentary narration
+Day 229 - Cohesion in long texts
+Day 230 - Editorial writing
+Day 231 - Large vocabulary expansion
+Day 232 - Long investigative articles
+Day 233 - Documentary narration
+Day 234 - Cohesion in long texts
+Day 235 - Editorial writing
+Day 236 - Large vocabulary expansion
+Day 237 - Long investigative articles
+Day 238 - Documentary narration
+Day 239 - Cohesion in long texts
+Day 240 - End of Month Review
+Day 241 - Irregular verb mastery
+Day 242 - Dialect awareness
+Day 243 - Feature writing techniques
+Day 244 - Multimedia journalism vocabulary
+Day 245 - Policy argumentation
+Day 246 - Irregular verb mastery
+Day 247 - Dialect awareness
+Day 248 - Feature writing techniques
+Day 249 - Multimedia journalism vocabulary
+Day 250 - Policy argumentation
+Day 251 - Irregular verb mastery
+Day 252 - Dialect awareness
+Day 253 - Feature writing techniques
+Day 254 - Multimedia journalism vocabulary
+Day 255 - Policy argumentation
+Day 256 - Irregular verb mastery
+Day 257 - Dialect awareness
+Day 258 - Feature writing techniques
+Day 259 - Multimedia journalism vocabulary
+Day 260 - Policy argumentation
+Day 261 - Irregular verb mastery
+Day 262 - Dialect awareness
+Day 263 - Feature writing techniques
+Day 264 - Multimedia journalism vocabulary
+Day 265 - Policy argumentation
+Day 266 - Irregular verb mastery
+Day 267 - Dialect awareness
+Day 268 - Feature writing techniques
+Day 269 - Multimedia journalism vocabulary
+Day 270 - End of Month Review
+Day 271 - Advanced debate and commentary
+Day 272 - Statistical analysis reporting
+Day 273 - Long podcasts and public speaking
+Day 274 - Investigative journalism writing
+Day 275 - Advanced debate and commentary
+Day 276 - Statistical analysis reporting
+Day 277 - Long podcasts and public speaking
+Day 278 - Investigative journalism writing
+Day 279 - Advanced debate and commentary
+Day 280 - Statistical analysis reporting
+Day 281 - Long podcasts and public speaking
+Day 282 - Investigative journalism writing
+Day 283 - Advanced debate and commentary
+Day 284 - Statistical analysis reporting
+Day 285 - Long podcasts and public speaking
+Day 286 - Investigative journalism writing
+Day 287 - Advanced debate and commentary
+Day 288 - Statistical analysis reporting
+Day 289 - Long podcasts and public speaking
+Day 290 - Investigative journalism writing
+Day 291 - Advanced debate and commentary
+Day 292 - Statistical analysis reporting
+Day 293 - Long podcasts and public speaking
+Day 294 - Investigative journalism writing
+Day 295 - Advanced debate and commentary
+Day 296 - Statistical analysis reporting
+Day 297 - Long podcasts and public speaking
+Day 298 - Investigative journalism writing
+Day 299 - Pre-milestone Review
+Day 300 - Major milestone: 20-minute Arabic presentation
+Day 301 - Crisis reporting
+Day 302 - Media law terminology
+Day 303 - Technical translation
+Day 304 - Speech writing
+Day 305 - Professional Arabic communication
+Day 306 - Crisis reporting
+Day 307 - Media law terminology
+Day 308 - Technical translation
+Day 309 - Speech writing
+Day 310 - Professional Arabic communication
+Day 311 - Crisis reporting
+Day 312 - Media law terminology
+Day 313 - Technical translation
+Day 314 - Speech writing
+Day 315 - Professional Arabic communication
+Day 316 - Crisis reporting
+Day 317 - Media law terminology
+Day 318 - Technical translation
+Day 319 - Speech writing
+Day 320 - Professional Arabic communication
+Day 321 - Crisis reporting
+Day 322 - Media law terminology
+Day 323 - Technical translation
+Day 324 - Speech writing
+Day 325 - Professional Arabic communication
+Day 326 - Crisis reporting
+Day 327 - Media law terminology
+Day 328 - Technical translation
+Day 329 - Speech writing
+Day 330 - End of Month Review
+Day 331 - Newsroom simulations
+Day 332 - Public engagement writing
+Day 333 - Feature story production
+Day 334 - Cultural nuance in Arabic journalism
+Day 335 - Newsroom simulations
+Day 336 - Public engagement writing
+Day 337 - Feature story production
+Day 338 - Cultural nuance in Arabic journalism
+Day 339 - Newsroom simulations
+Day 340 - Public engagement writing
+Day 341 - Feature story production
+Day 342 - Cultural nuance in Arabic journalism
+Day 343 - Newsroom simulations
+Day 344 - Public engagement writing
+Day 345 - Feature story production
+Day 346 - Cultural nuance in Arabic journalism
+Day 347 - Newsroom simulations
+Day 348 - Public engagement writing
+Day 349 - Feature story production
+Day 350 - Cultural nuance in Arabic journalism
+Day 351 - Portfolio creation Part 1
+Day 352 - Portfolio creation Part 2
+Day 353 - Portfolio creation Part 3
+Day 354 - Final listening exams Part 1
+Day 355 - Final listening exams Part 2
+Day 356 - Long article editing Part 1
+Day 357 - Long article editing Part 2
+Day 358 - Live presentation preparation Part 1
+Day 359 - Live presentation preparation Part 2
+Day 360 - Live presentation in Arabic Part 1
+Day 361 - Live presentation in Arabic Part 2
+Day 362 - Reflection and future learning plan Part 1
+Day 363 - Reflection and future learning plan Part 2
+Day 364 - Final comprehensive review
+Day 365 - Final MSA Fluency Certification and Graduation
