@@ -2,7 +2,7 @@ name: Muddaris Fusha 365 Daily Agent
 
 on:
   schedule:
-    - cron: '0 4 * * *' # Runs at 4:00 AM UTC daily
+    - cron: '30 22 * * *' # Runs at 4:00 AM IST daily
   workflow_dispatch: # Allows you to click a button in GitHub to run it manually
 
 permissions:
