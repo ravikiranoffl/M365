@@ -1,4 +1,4 @@
-# 📘 Mudarris Al-Arab Agent (MSA 365)
+# 📘 Mudarris Al-Arab Agent (M365)
 
 An automated **365-day Modern Standard Arabic (MSA) learning system** powered by AI.
 This project generates **daily structured lessons**, stores them, and delivers them via email—fully hands-free using GitHub Actions.
