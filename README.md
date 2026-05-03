@@ -1,4 +1,4 @@
-# 📘 Mudarris Al-Arab Agent (M365)
+# 🌙 Mudarris Al-Arab Agent (M365)
 
 An automated **365-day Modern Standard Arabic (MSA) learning system** powered by AI.
 This project generates **daily structured lessons**, stores them, and delivers them via email—fully hands-free using GitHub Actions.
@@ -159,8 +159,8 @@ Set these in GitHub:
 ### 1. Clone Repo
 
 ```bash
-git clone https://github.com/your-repo/mudarris365.git
-cd mudarris365
+git clone https://github.com/ravikiranoffl/M365.git
+cd M365
 ```
 
 ### 2. Install Dependencies
